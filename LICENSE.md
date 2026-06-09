@@ -1,4 +1,4 @@
-# 
+# 高级 Sublime Text 模板 Mac OS版 | 自动 Sublime Text 模板 PC Windows版。集成 文件管理器 和 执行计划，跨平台性能最大化。
 
 
 
